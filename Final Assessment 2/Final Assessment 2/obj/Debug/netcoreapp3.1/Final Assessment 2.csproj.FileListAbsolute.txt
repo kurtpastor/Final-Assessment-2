@@ -1,0 +1,37 @@
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\Final Assessment 2.exe
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\Final Assessment 2.deps.json
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\Final Assessment 2.runtimeconfig.json
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\Final Assessment 2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\Final Assessment 2.dll
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\Final Assessment 2.pdb
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\Final Assessment 2.Views.dll
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\bin\Debug\netcoreapp3.1\Final Assessment 2.Views.pdb
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\staticwebassets\Final Assessment 2.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\staticwebassets\Final Assessment 2.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Final Assessment 2.styles.css
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.Views.pdb
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.dll
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.pdb
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Final-Assessment-2\Final Assessment 2\Final Assessment 2\obj\Debug\netcoreapp3.1\Final Assessment 2.csproj.CopyComplete
